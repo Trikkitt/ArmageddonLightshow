@@ -8,6 +8,8 @@ You need one of each item except for the clips, of which you will need 6, althou
 
 I do not recommend using PLA for this, the LEDs can get quite warm.  So probably aim for a higher temperature filament.  I've used PETG just fine, which also gives everything a little flexibility.
 
+This was created in TinkerCad and you can access the design there in https://www.tinkercad.com/things/3HTQpiZR87c-armageddon-disc-final
+
 Assembly steps are as follows:
 1 - Get your parts 3D printed and get your electronics prepared as per the electronics instructions and photos - except do not solder the LED rings to the main electronics as they must pass through a hole in one of the plastic parts.
 2 - Place the LED rings onto the back plate, the raised ridges of the back plate should pop through the gaps between the rings.  Ensure the wires go through the large long opening at the back.
